@@ -1,11 +1,11 @@
 {
   "admin": {
-    "password": "fuckery",
+    "password": "9a92d6f2f1071fa740b35442d5dfd667d6e7a4c8f9aeaf5e46ae41918e2f5330,
     "membership_valid": true,
     "expires": "2025-08-01"
   },
   "demo": {
-    "password": "1234",
+    "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
     "membership_valid": false,
     "expires": "2024-12-01"
   }
