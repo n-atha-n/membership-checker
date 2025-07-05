@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "password": "fuckery",
+    "membership_valid": true,
+    "expires": "2025-08-01"
+  },
+  "demo": {
+    "password": "1234",
+    "membership_valid": false,
+    "expires": "2024-12-01"
+  }
+}
